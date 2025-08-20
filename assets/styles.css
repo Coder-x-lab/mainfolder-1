@@ -21,9 +21,7 @@
 }
 
 .left-btn:hover {
-    transition-duration: 1s;
-
-
+    opacity: .6;
     color: white !important;
 }
 
@@ -42,6 +40,9 @@
 
 
 }
+
+
+
 
 .herotext {
     text-align: center;
