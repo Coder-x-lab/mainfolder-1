@@ -200,7 +200,7 @@
 }
 
 .cardss {
-    width: 32%;
+    width: 30%;
     text-align: center;
 }
 
@@ -374,10 +374,7 @@ iframe{
     max-width: 170px;
     margin-top: 20px;
    }
-   hr{
-    width: 140%;
-    margin-left: -150px;
-   }
+ 
 
 
 
